@@ -1,4 +1,9 @@
-### Hi there 👋
+#### 👋 Hi, I'm Lindsey Braun
+#### 🌈 Pronouns: she/her
+#### 🎮 I'm a game programmer specialized in gameplay programming
+#### 🥰 I enjoy playing video games & board games, making art, and performing as a singer and guitarist
+#### 💬 Check out my game programming, development & design <a href="https://portfolio.lindseybraun.com/">portfolio</a>
+
 
 <!--
 **linbraun/linbraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
