@@ -1,6 +1,6 @@
 #### 👋 Hi, I'm Lindsey Braun
 #### 🌈 Pronouns: she/her
-#### 🎮 I'm a game programmer specialized in gameplay programming
+#### 🎮 I'm a programmer specialized in game programming
 #### 🥰 I enjoy playing video games & board games, making art, and performing as a singer and guitarist
 #### 💬 Check out my game programming, development & design <a href="https://portfolio.lindseybraun.com/">portfolio</a>
 
